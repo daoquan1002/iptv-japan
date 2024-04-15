@@ -1,2 +1,2 @@
 ## IPTV Myself
-Retrieved from [iptv-org](iptv-org.github.io)
+Retrieved from [iptv-org](https://iptv-org.github.io)
