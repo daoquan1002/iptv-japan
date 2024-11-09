@@ -4,7 +4,7 @@
 #EXTM3U url-tvg="http://epg.utako.moe/jcom.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
 
 # Infomation
-#EXTINF:-1 tvg-id="info" group-title="About",Channel sources used are from iptv.org and vthanh
+#EXTINF:-1 tvg-id="info" group-title="About (Move to Q. Television)",Channel sources used are from iptv.org and vthanh
 https://drive.usercontent.google.com/download?id=1--F6H3rK7xiV5MG8Xq01f-TcS83PE-tV&export=download&authuser=0
 
 # Music
