@@ -1,2 +1,1 @@
-## IPTV Japan
-Nothing
+## IPTV Japan (move to Q. Television)
