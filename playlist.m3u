@@ -4,7 +4,7 @@
 #EXTM3U url-tvg="http://epg.utako.moe/jcom.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
 
 # Infomation
-#EXTINF:-1 tvg-id="info" group-title="About (move to Q. Television)",Channel sources used are from iptv-org, vthanh and more (last updated: 10/11/2024)
+#EXTINF:-1 tvg-id="info" group-title="About (move to Q. Television)",Channel sources used are from iptv-org and vthanh or more (last updated: 10/11/2024)
 https://drive.usercontent.google.com/download?id=1--F6H3rK7xiV5MG8Xq01f-TcS83PE-tV&export=download&authuser=0
 
 # Music
@@ -12,7 +12,7 @@ https://drive.usercontent.google.com/download?id=1--F6H3rK7xiV5MG8Xq01f-TcS83PE-
 https://drive.usercontent.google.com/download?id=1WZZ_Gz7boX0tMu50s_XEMBsVM4UxApuJ&confirm=t&uuid=198044d2-680f-4ce0-9eb9-8b92b276e179&at=AENtkXbMdRr7ABH-8ow6DJLSlxzB%3A1731168932625
 
 # From iptv.org
-#EXTINF:-1 tvg-id="JOAKDTV.jp" group-title="Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G (Japan) (540p, not stable)
+#EXTINF:-1 tvg-id="JOAKDTV.jp" group-title="Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G (Japan) (540p not stable)
 https://nhk4.mov3.co/hls/nhk.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" group-title="Japan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm3sRV1dGXPNeiBDKi0k5595Kmc7_xtI4xQ&s",NHK World Japan (720p)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
