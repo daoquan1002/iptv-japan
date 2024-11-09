@@ -20,9 +20,9 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 
 # From vthanh
-#EXTINF:-1 group-title="Japan" tvg-id="nhkg_Japan",NHK G (720p)
+#EXTINF:-1 group-title="Japan" tvg-id="nhkg_tokyo",NHK G (720p)
 http://vthanh.utako.moe/1/index.m3u8
-#EXTINF:-1 group-title="Japan" tvg-id="nhke_Japan",NHK E (720p)
+#EXTINF:-1 group-title="Japan" tvg-id="nhke_tokyo",NHK E (720p)
 http://vthanh.utako.moe/2/index.m3u8
 #EXTINF:-1 group-title="Japan" tvg-id="ntv",NTV (720p)
 http://vthanh.utako.moe/3/index.m3u8
