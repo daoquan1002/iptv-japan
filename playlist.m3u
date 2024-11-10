@@ -1,8 +1,7 @@
 # Q. Televison
 
 # EPG
-#EXTM3U url-tvg="http://epg.utako.moe/jcom.xml" tvg-shift=0 m3uautoload=1
-#EXTM3U url-tvg="https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=2
+#EXTM3U url-tvg="https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
 
 # Infomation
 #EXTINF:-1 tvg-id="info" group-title="About (move to Q. Television)",Channel sources used are from iptv-org and vthanh or more (last updated: 10/11/2024)
