@@ -4,7 +4,9 @@
 #EXTM3U url-tvg="http://epg.utako.moe/jcom.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
 
 # Infomation
-#EXTINF:-1 tvg-id="info" group-title="About",Thank you for using my iptv (last updated: 20/11/2024)
+#EXTINF:-1 tvg-id="info" group-title="About", I'm boring...
+https://drive.usercontent.google.com/download?id=1--F6H3rK7xiV5MG8Xq01f-TcS83PE-tV&export=download&authuser=0
+#EXTINF:-1 tvg-id="info" group-title="About",Last updated: 01/12/2024
 https://drive.usercontent.google.com/download?id=1--F6H3rK7xiV5MG8Xq01f-TcS83PE-tV&export=download&authuser=0
 
 # Music
@@ -12,6 +14,8 @@ https://drive.usercontent.google.com/download?id=1--F6H3rK7xiV5MG8Xq01f-TcS83PE-
 https://drive.usercontent.google.com/download?id=1WZZ_Gz7boX0tMu50s_XEMBsVM4UxApuJ&confirm=t&uuid=198044d2-680f-4ce0-9eb9-8b92b276e179&at=AENtkXbMdRr7ABH-8ow6DJLSlxzB%3A1731168932625
 #EXTINF:-1 tvg-id="sky_delta" group-title="Music",sky_delta - YUMEUTSUTSU (feat. shully)
 https://drive.usercontent.google.com/download?id=1ZboRpIr51bgTmtz6g4_m1rLTjG3_w89G&export=download&authuser=0&confirm=t&uuid=fd79d76b-6a61-4068-a182-982ce72668e7&at=AENtkXbPFYcOWacX-DTlCSuaRlCL%3A1732062654028
+#EXTINF:-1 tvg-id="kamome sano" group-title="Music",kamome sano - shake it shake it
+https://drive.usercontent.google.com/download?id=1bGu7P0mNAaCBA1CU-dQZdJAHpkA_nd_p&export=download&authuser=0&confirm=t&uuid=5f80519c-b0d1-42c9-a694-da533e72910c&at=AENtkXbnlaALHMEe_1eaiL6F-keF%3A1733035323527
 
 # From iptv-org
 #EXTINF:-1 tvg-id="JOAKDTV.jp" group-title="Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G (Japan) (540p not stable)
