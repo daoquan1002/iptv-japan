@@ -5,26 +5,23 @@
 
 # Infomation
 #EXTINF:-1 tvg-id="info" group-title="About", I'm boring...
-https://drive.usercontent.google.com/download?id=1--F6H3rK7xiV5MG8Xq01f-TcS83PE-tV&export=download&authuser=0
-#EXTINF:-1 tvg-id="info" group-title="About",Last updated: 17/12/2024
-https://drive.usercontent.google.com/download?id=1--F6H3rK7xiV5MG8Xq01f-TcS83PE-tV&export=download&authuser=0
+
+#EXTINF:-1 tvg-id="info" group-title="About",Last updated: 22/12/2024
 
 # Music
 #EXTINF:-1 tvg-id="K-NEXT" group-title="Music",K-NEXT - particles
-https://drive.usercontent.google.com/download?id=1WZZ_Gz7boX0tMu50s_XEMBsVM4UxApuJ&export=download&authuser=0
+
 #EXTINF:-1 tvg-id="sky_delta" group-title="Music",sky_delta - YUMEUTSUTSU (feat. shully)
-https://drive.usercontent.google.com/download?id=1ZboRpIr51bgTmtz6g4_m1rLTjG3_w89G&export=download&authuser=0
+
 #EXTINF:-1 tvg-id="kamome sano" group-title="Music",kamome sano - shake it shake it
-https://drive.usercontent.google.com/download?id=1bGu7P0mNAaCBA1CU-dQZdJAHpkA_nd_p&export=download&authuser=0
+
 #EXTINF:-1 tvg-id="K-NEXT" group-title="Music",K-NEXT - Blue (video test flac)
 https://github.com/daoquan1002/iptv-japan/raw/refs/heads/main/Videos/blue-1.mp4
 
 # From iptv-org
-#EXTINF:-1 tvg-id="JOAKDTV.jp" group-title="Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G (Japan) (540p not stable)
-https://nhk4.mov3.co/hls/nhk.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" group-title="Japan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm3sRV1dGXPNeiBDKi0k5595Kmc7_xtI4xQ&s",NHK World Japan (720p)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1 tvg-id="NHKWorldPremium.jp" group-title="Japan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJcMlSCY2fXJTLwBfKLKkARmKXnG4wLZqGug&s",NHK World Premium (1080p)
+#EXTINF:-1 tvg-id="NHKWorldPremium.jp" group-title="Japan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJcMlSCY2fXJTLwBfKLKkARmKXnG4wLZqGug&s",NHK World Premium (720p)
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 
 # From vthanh
