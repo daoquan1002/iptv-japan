@@ -5,19 +5,16 @@
 
 # Infomation
 #EXTINF:-1 tvg-id="info" group-title="About", I'm boring...
-https://github.com/daoquan1002/iptv-japan/raw/refs/heads/main/Videos/blue-1.mp4
+https://github.com/daoquan1002/test/raw/refs/heads/main/Videos/blue-1.mp4
 #EXTINF:-1 tvg-id="info" group-title="About",Last updated: 22/12/2024
-https://github.com/daoquan1002/iptv-japan/raw/refs/heads/main/Videos/blue-1.mp4
+https://github.com/daoquan1002/test/raw/refs/heads/main/Videos/blue-1.mp4
 
 # Music
-#EXTINF:-1 tvg-id="K-NEXT" group-title="Music",K-NEXT - particles
-
-#EXTINF:-1 tvg-id="sky_delta" group-title="Music",sky_delta - YUMEUTSUTSU (feat. shully)
-
-#EXTINF:-1 tvg-id="kamome sano" group-title="Music",kamome sano - shake it shake it
+#EXTINF:-1 tvg-id="daniwell" group-title="Music",nekorui
+https://drive.usercontent.google.com/download?id=1oNqqz3BBMJsJevo_BIfq25it4DJ_iQt2
 
 #EXTINF:-1 tvg-id="K-NEXT" group-title="Music",K-NEXT - Blue (video test flac)
-https://github.com/daoquan1002/iptv-japan/raw/refs/heads/main/Videos/blue-1.mp4
+https://github.com/daoquan1002/test/raw/refs/heads/main/Videos/blue-1.mp4
 
 # From iptv-org
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" group-title="Japan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm3sRV1dGXPNeiBDKi0k5595Kmc7_xtI4xQ&s",NHK World Japan (720p)
